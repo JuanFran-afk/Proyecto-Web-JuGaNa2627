@@ -1,0 +1,23 @@
+/* Ponemos el título principal*/
+h1 {
+    color: blue;
+}
+
+/* Damos una fuente limpia a toda la página y un margen para que no esté pegada al borde */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+/* Un poco de espacio entre cada sección de la práctica */
+section {
+    margin-bottom: 25px;
+}
+
+/* Color y estilo básico para los títulos de las secciones */
+h2 {
+    color: #333;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
