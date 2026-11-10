@@ -1,11 +1,11 @@
 /* Ponemos el título principal*/
 h1 {
-    color: blue;
+    color: green;
 }
 
 /* Damos una fuente limpia a toda la página y un margen para que no esté pegada al borde */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
     margin: 20px;
     background-color: #f9f9f9;
 }
