@@ -24,6 +24,9 @@ En este proyecto se han practicado las siguientes operativas de Git:
 
 ---
 
+## Próximas mejoras
+- Añadir nuevas páginas de navegación.
+
 ## 💻 Instalación y Uso Local
 
 Si quieres clonar este proyecto y probarlo en tu máquina local:
